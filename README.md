@@ -47,5 +47,5 @@ npm run dev / yarn start
 
 ```
 # 构建生产环境
-npm run build:prod
+npm run build
 ```
